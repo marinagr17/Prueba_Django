@@ -1,0 +1,19 @@
+# Entorno virtual
+dj/
+venv/
+
+# Python cache
+*.pyc
+__pycache__/
+
+# Django
+db.sqlite3
+#static/
+media/
+settings.py
+
+# Logs
+*.log
+
+# Configuración
+.env
